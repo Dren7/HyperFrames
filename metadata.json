@@ -1,0 +1,6 @@
+{
+  "name": "HyperFrames — Programmatic Video & AI Motion Studio",
+  "description": "Code-to-video rendering engine and AI motion studio. Write animations in code, preview with live 60 FPS timeline, generate AI video from text & photos with Gemini Omni Flash, and direct scenes in real-time with Gemini Live.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
